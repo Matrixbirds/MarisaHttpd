@@ -37,6 +37,13 @@ Then,
 
 Then, open `http://127.0.0.1:8866/moe` in your browser.
 
+
+Result on my workstation:
+
+
+<img src="https://lh3.googleusercontent.com/-QL58v679H1s/Vn63lgo1QJI/AAAAAAAAZVQ/bss7nZKvm-I/w1169-h1653/marisa-dp-demo.png"></img>
+
+
 Note: The picture `dp_demo/34689497_p0.jpg` is illustrated by <a href="http://www.pixiv.net/member.php?id=292644">えふぇ</a>.
 
 
