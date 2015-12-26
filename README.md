@@ -40,3 +40,8 @@ Then, open `http://127.0.0.1:8866/moe` in your browser.
 Note: The picture `dp_demo/34689497_p0.jpg` is illustrated by <a href="http://www.pixiv.net/member.php?id=292644">えふぇ</a>.
 
 
+<h3>Notes</h3>
+
+Important: You'd better recompile both the server (`marisa.c`) and your dynamic pages after making changes to `kirisame.c` and `kirisame.h`. Otherwise a segfault may occur (if you changed the data structure).
+
+
