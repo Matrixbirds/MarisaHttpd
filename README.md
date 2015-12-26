@@ -27,4 +27,16 @@ Compile with:
 
 `gcc -fpic -shared dp_demo/moe.c kirisame.c -I. -o  moe.so`
 
+Then, 
+
+`mkdir test`
+
+`mv moe.so test`
+
+`./marisa -m epoll -b 127.0.0.1 -p 8866 -d test`
+
+Then, open `http://127.0.0.1:8866/moe` in your browser.
+
+Note: The picture `dp_demo/34689497_p0.jpg` is illustrated by <a href="http://www.pixiv.net/member.php?id=292644">えふぇ</a>.
+
 
